@@ -18,9 +18,9 @@
     - [2.3. Login](./Login/README.md)
     - [2.4. Broken Button](./Broken-Button/README.md)
 - III. Cryptography
-    - [3.1. Is This Crypto?](./Is-This-Crypto?/README.md)
+    - [3.1. Is This Crypto?](./Is-This-Crypto/README.md)
     - [3.2. Titanic](./Titanic/README.md)
-    - [3.3. Tap Dancing](#33-Tap-Dancing)
+    - [3.3. Tap Dancing](./Tap-Dancing/README.md)
     - [3.4. RSABC](./RSABC/README.md)
     - [3.5. Typewriter](./Typewriter/README.md)
     - [3.6. Circles](./Circles/README.md)

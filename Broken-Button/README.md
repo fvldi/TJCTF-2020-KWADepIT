@@ -1,4 +1,4 @@
-# Broken Button
+# Broken Button - 10 points
 ## Description
 
 This site is telling me all I need to do is click button to find the flag! Is it really that easy?

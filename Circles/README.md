@@ -1,4 +1,4 @@
-# Circles - 10 Points
+# Circles - 10 points
 ## Description
 
 Some typefaces are mysterious, like this one - its origins are an enigma wrapped within a riddle, indeed. 
@@ -8,7 +8,7 @@ Some typefaces are mysterious, like this one - its origins are an enigma wrapped
 ## Flag
 
 ```
-flag = tjctf{B3auT1ful_f0Nt}
+tjctf{B3auT1ful_f0Nt}
 ```
 
 ## Solution
