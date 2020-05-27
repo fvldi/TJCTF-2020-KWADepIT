@@ -1,8 +1,8 @@
 # Dokumentasi TJCTF 2020 - KWA Dep IT
 [![Fvldi code style](https://img.shields.io/badge/Author-Fvldi-fce8d5)](https://github.com/fvldi)
-[![Name](https://img.shields.io/badge/Name-Muhamad%20Rifaldi-ffd3e1)](https://github.com/fvldi)
-[![NRP](https://img.shields.io/badge/NRP-05311840000022-0a97b0)](https://github.com/fvldi)
-[![Lecturer](https://img.shields.io/badge/Lecturers-Mr.%20Ridho%20Rahman%20Hariadi,%20S.Kom.,%20M.Sc.-1b6ca8)](https://github.com/fvldi)
+[![Fvldi code style](https://img.shields.io/badge/Name-Muhamad%20Rifaldi-ffd3e1)](https://github.com/fvldi)
+[![Fvldi code style](https://img.shields.io/badge/NRP-05311840000022-0a97b0)](https://github.com/fvldi)
+[![Fvldi code style](https://img.shields.io/badge/Lecturers-Mr.%20Ridho%20Rahman%20Hariadi,%20S.Kom.,%20M.Sc.-1b6ca8)](https://github.com/fvldi)
 
 <br>
 
@@ -33,3 +33,6 @@
     - [5.1. Hexillology](./Hexillology/README.md)
     - [5.2. Rap God](./Rap-God/README.md)
     - [5.3. Ling Ling](./Ling-Ling/README.md)
+
+# Score Progression
+![Score Progression](./img/scoreProgression.jpg)
