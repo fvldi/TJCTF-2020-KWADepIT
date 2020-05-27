@@ -1,8 +1,8 @@
 # Dokumentasi TJCTF 2020 - KWA Dep IT
-[![Fvldi code style](https://img.shields.io/badge/Author-Fvldi-fce8d5)](https://github.com/fvldi)
-[![Fvldi code style](https://img.shields.io/badge/Name-Muhamad%20Rifaldi-ffd3e1)](https://github.com/fvldi)
-[![Fvldi code style](https://img.shields.io/badge/NRP-05311840000022-0a97b0)](https://github.com/fvldi)
-[![Fvldi code style](https://img.shields.io/badge/Lecturers-Mr.%20Ridho%20Rahman%20Hariadi,%20S.Kom.,%20M.Sc.-1b6ca8)](https://github.com/fvldi)
+[![Fvldi code style](https://img.shields.io/badge/Author-Fvldi-eeeeee)](https://github.com/fvldi)
+[![Fvldi code style](https://img.shields.io/badge/Name-Muhamad%20Rifaldi-00adb5)](https://github.com/fvldi)
+[![Fvldi code style](https://img.shields.io/badge/NRP-05311840000022-393e46)](https://github.com/fvldi)
+[![Fvldi code style](https://img.shields.io/badge/Lecturers-Mr.%20Ridho%20Rahman%20Hariadi,%20S.Kom.,%20M.Sc.-222831)](https://github.com/fvldi)
 
 <br>
 
