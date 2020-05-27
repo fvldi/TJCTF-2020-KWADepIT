@@ -20,3 +20,6 @@
 
 # Score Progression
 ![Score Progression](./img/scoreProgression.jpg)
+
+# Rank
+![Rank](./img/rank.jpg)
