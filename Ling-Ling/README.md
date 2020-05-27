@@ -7,7 +7,7 @@ Who made this meme?
 
 [I made this meme](https://www.reddit.com/r/lingling40hrs/comments/gam2if/this_popped_in_my_mind_as_i_was_playing_it_and_i/)! unless.....
 
-![](https://github.com/lumbricina/TJCTF-2020/blob/master/Forensics/Ling%20Ling/meme.png)
+![](./meme.png)
 
 ## Flag
 
