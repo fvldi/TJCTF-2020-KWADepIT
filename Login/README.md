@@ -1,7 +1,5 @@
-
-
-# Login
-**Soal**
+# Login - 30 points
+## Description
 
 Could you login into this [very secure site](https://login.tjctf.org/)? Best of luck!
 
