@@ -1,4 +1,4 @@
-# Dokumentasi TJCTF 2020 - KWA Dep IT
+# Dokumentasi TJCTF 2020 - Team: KWA Dep IT
 [![Fvldi code style](https://img.shields.io/badge/Author-Fvldi-a6e3e9)](https://github.com/fvldi)
 [![Fvldi code style](https://img.shields.io/badge/Name-Muhamad%20Rifaldi-00adb5)](https://github.com/fvldi)
 [![Fvldi code style](https://img.shields.io/badge/NRP-05311840000022-393e46)](https://github.com/fvldi)
