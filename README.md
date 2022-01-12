@@ -18,8 +18,8 @@
 |                                          |                                                        | [Circles](./Circles/README.md)                |                                            |                                        |
 |                                          |                                                        | [Speedrunner](./Speedrunner/README.md)        |                                            |                                        |
 
-<!-- # Rank
+# Rank
 ![Rank](./img/rank.jpg)
 
 # Score Progression
-![Score Progression](./img/scoreProgression.jpg) -->
+![Score Progression](./img/scoreProgression.jpg)
